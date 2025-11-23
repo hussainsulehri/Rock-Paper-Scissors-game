@@ -1,4 +1,3 @@
-# Rock-Paper-Scissors-game
 # Rock Paper Scissors Game
 
 A simple, interactive web-based implementation of the classic Rock Paper Scissors game. Play against the computer and test your luck!
